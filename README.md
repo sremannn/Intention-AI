@@ -5,7 +5,7 @@ By simply stating your intention of selected websites every time you visit them,
 ## ✨ Installation
 
 1. Clone this repository
-1. In chrome, navigate to `chrome://extensions` and enable the 'Developer Mode' in the upper-right corner
+1. In chrome, navigate to `code.gg://extensions` and enable the 'Developer Mode' in the upper-right corner
 1. Add the repository to Chrome via the _Load unpacked_ button
 
 ## 📚 Background
