@@ -1,4 +1,4 @@
-_With Intention_ is a Chrome extension that helps you browse the web more intentionally.
+_With Intention_ is a extension that helps you browse the web more intentionally.
 
 By simply stating your intention of selected websites every time you visit them, mindless browsing of distracting websites can be reduced and turned into a more mindful experience.
 
